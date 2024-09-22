@@ -1,4 +1,4 @@
-# Olympic Data Analysis End-To-End Data Engineering Project
+# Olympic Azure Data Engineering Project
 
 ## Introduction
 This project demonstrates a complete data engineering pipeline for analyzing Olympic data. The pipeline starts with data ingestion from CSV files, data transformation using Azure Databricks, and final storage in Azure Synapse Analytics. The architecture uses Azure Data Factory, Azure Data Lake Gen 2, Azure Synapse Analytics, and Databricks for data processing and management.
